@@ -1,8 +1,15 @@
+a{
+text-decoration:none;}
+
+a:hover{
+color:red;}
 
 th {
+
   color: #ff4b65;
 }
 td {
 	font-size: 20px;
   color: #ff4b65;
 }
+
